@@ -1,5 +1,5 @@
 # Test_CompanyEmployees
 
-Тестовое задание, написанное на языке C# .NetFramework 4.7 /Windows.Forms
-Среда разработки: MS Visual Studio 2019
-Сервер БД: SQL-Server 2019 (SQL Server 15)
+РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ, РЅР°РїРёСЃР°РЅРЅРѕРµ РЅР° СЏР·С‹РєРµ C# .NetFramework 4.7 /Windows.Forms
+РЎСЂРµРґР° СЂР°Р·СЂР°Р±РѕС‚РєРё: MS Visual Studio 2019
+РЎРµСЂРІРµСЂ Р‘Р”: SQL-Server 2019 (SQL Server 15)
